@@ -1,0 +1,15 @@
+*
+!.gitignore
+
+# Config files
+!config.cfg
+!autoexec.cfg
+!scout.cfg
+!soldier.cfg
+!pyro.cfg
+!demoman.cfg
+!heavyweapons.cfg
+!engineer.cfg
+!medic.cfg
+!sniper.cfg
+!spy.cfg
