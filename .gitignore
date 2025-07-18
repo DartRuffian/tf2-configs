@@ -4,6 +4,8 @@
 # Config files
 !config.cfg
 !autoexec.cfg
+!logo.cfg
+
 !scout.cfg
 !soldier.cfg
 !pyro.cfg
